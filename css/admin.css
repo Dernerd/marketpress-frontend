@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* admin styles */
+#mm-panel-options-wp-store {
+	padding:20px;
+}
+.shortcode-wp-store {
+	padding:20px;
+}
+#mm-panel-options-wp-store input[type="text"]{
+	width:300px;
+}
+.current-page {
+	width:60px !important;
+}

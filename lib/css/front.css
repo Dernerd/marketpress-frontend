@@ -1,0 +1,75 @@
+#status_div {
+	display: none;
+}
+.hidden {
+	display: none !important;
+}
+.clearfix {
+	clear: both;
+}
+.error_msg {
+	padding: 9px 6px 10px;
+	background: coral;
+	border: 1px dotted red;
+	border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	color: #fff;
+}
+.conf_msg {
+	padding: 9px 6px 10px;
+	background: #CF9;
+	border: 1px dotted #9C0;
+	border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	color: #fff;
+}
+#status_ajax {
+	display: none;
+}
+.button_block {
+	display: none;
+}
+.button_block {
+	text-align: center;
+}
+.close_button {
+}
+.download_preview .close_button {
+	float: right;
+}
+.featured_preview .close_button, .gallery_preview .close_button {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	cursor: pointer;
+}
+.featured_preview {
+	position: relative;
+}
+#featured_stat, #gallery_stat {
+	display: inline;
+}
+.single_gall_item {
+	position: relative;
+}
+.single_download_item {
+	position: relative;
+}
+.postbox select {
+	padding: 2px;
+	line-height: 28px;
+	height: 28px;
+	width: 60%;
+	margin: 7px 0px 0px 10px;
+	display: block;
+	vertical-align: middle;
+}
+li.checkbox {
+	padding: 2px;
+	width: 60%;
+	margin: 7px 0px 0px 10px;
+	display: block;
+	vertical-align: middle;
+}
